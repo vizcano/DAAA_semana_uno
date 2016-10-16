@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="segundo_activity">Like</string>
+    <string name="pnombre">nombre</string>
+    <string name="pFeed">¡Alimentame!</string>
+    <string name="plikes">Likes</string>
+    <string name="favs">Favoritos</string>
+    <string name="contacto_toolbar">Contacto</string>
+    <string name="about_toolbar">Acerca de</string>
+    <string name="account_toolbar">Configurar Cuenta</string>
+    <string name="correo_to">Correo</string>
+    <string name="correo_subject">Nombre</string>
+    <string name="correo_msgtext">Comentario</string>
+    <string name="account_ingresa">Escribe tu Usuario</string>
+    <string name="account_guardar">Guardar Cuenta</string>
+    <string name="correo_send">Enviar</string>
+    <string name="correo_title">Contacto</string>
+    <string name="account_title">Cuenta</string>
+    <string name="about_title">Acerca de</string>
+    <string name="account_saved">La cuenta se Guardo Correctamente</string>
+    <string name="account_savedreturn">Ve a Perfil para Ver Cambios</string>
+
+    <!-- Acerca de -->
+    <string name="tTitulo">Mascotas</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvDesarrollador">Jose Miguel</string>
+    <string name="tvNombrePais">País</string>
+    <string name="tvPais">ESPAÑA</string>
+</resources>
